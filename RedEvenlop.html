@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>* {margin: 0;padding: 0;}</style>
+</head>
+<body>
+    <div style="width: 100vw;height: 100vh;background-color: rgb(247, 205, 212);display: flex;align-items: center;flex-direction: column;">
+        <div style="padding-top: 15%">
+            <img src="./assets/xiaogou.gif">
+        </div>
+        <div id="text" style="padding-top: 5%;font-size: 20px;font-weight: bold;color: white;">可以请我喝新年的第一杯奶茶吗?</div>
+        <button id="yes" style="margin-top: 5%;width: 280px;height: 45px;color: white;border-radius: 20px;border: none;background-color: rgb(232, 130, 147);font-size: 18px;font-weight: 800;"> 可以 </button>
+        <button id="no" style="margin-top: 5%;width: 280px;height: 45px;color: rgb(232, 130, 147);border-radius: 20px;border: rgb(232, 130, 147) 2px solid;background-color: rgb(255, 255, 255);font-size: 18px;font-weight: 800;"> 不可以 </button>
+        <div id="yes-result" style="width: 100%;height: 100vh;position: absolute;display: none;background-color: rgb(247, 205, 212);flex-direction: column;align-items: center;"> 
+            <img src="./assets/lovexiaogpu.gif" style="width: 100%;">
+            <div style="padding-top: 5%;font-size: 20px;font-weight: bold;color: white;">我就知道宝宝最爱我了!</div>
+            <button id="return-main" style="margin-top: 5%;width: 280px;height: 45px;color: rgb(232, 130, 147);border-radius: 20px;border: rgb(232, 130, 147) 2px solid;background-color: rgb(255, 255, 255);font-size: 18px;font-weight: 800;"> 返回 </button>
+        </div>
+    </div>
+    <script>
+        const textEl = document.getElementById("text");
+        const text = ["可以请我喝新年的第一杯奶茶吗?" , "不行吗?为什么?" , "难道你不爱我了吗?" , "不请我喝奶茶给个红包也行" , "你是不是根本就不关心我?"]
+        let textIndex = 0;
+        document.getElementById("yes").onclick = function () {
+            document.getElementById("yes-result").style.display = "flex";
+            document.getElementById("return-main").onclick = function () {
+                document.getElementById("yes-result").style.display = "none";
+            }
+            textEl.innerText = text[0]
+            textIndex = 0
+            noEl.style.marginTop = "5%"
+            noEl.style.position = ""
+            noEl.style.top = ""
+            noEl.style.left = ""
+            noEl.style.width = "280px"
+            noEl.style.height = "45px"
+        }
+        const noEl = document.getElementById("no")
+        noEl.onclick = function () {
+            let nextX = Math.random() * 80 , nextY = Math.random() * 80;
+            noEl.style.marginTop = ""
+            noEl.style.position = "absolute"
+            noEl.style.transition = "all 0.15s"
+            noEl.style.top = nextX + "%"
+            noEl.style.left = nextY + "%"
+            noEl.style.width = noEl.style.height = "60px"
+            textIndex += 1
+            if (textIndex >= text.length) {
+                textIndex = 0
+            }
+            textEl.innerText = text[textIndex]
+        }
+    </script>
+</body>
+</html>
