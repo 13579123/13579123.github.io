@@ -1,0 +1,62 @@
+
+hero00037.png
+size: 143,736
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YHjiao
+  rotate: true
+  xy: 2, 450
+  size: 108, 132
+  orig: 108, 132
+  offset: 0, 0
+  index: -1
+YQjiao
+  rotate: true
+  xy: 2, 560
+  size: 68, 129
+  orig: 68, 129
+  offset: 0, 0
+  index: -1
+ZHjiao
+  rotate: true
+  xy: 2, 630
+  size: 54, 99
+  orig: 54, 100
+  offset: 0, 1
+  index: -1
+ZQjiao
+  rotate: true
+  xy: 40, 686
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+bujiao
+  rotate: true
+  xy: 2, 708
+  size: 26, 36
+  orig: 100, 144
+  offset: 37, 54
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 208, 139
+  orig: 208, 139
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 212
+  size: 121, 122
+  orig: 121, 122
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 335
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+hero00021.png
+size: 616,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dangbu
+  rotate: true
+  xy: 341, 54
+  size: 110, 88
+  orig: 110, 88
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 333, 247
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 161
+  size: 163, 199
+  orig: 163, 206
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 110, 29
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 410, 4
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+toukui2
+  rotate: false
+  xy: 578, 191
+  size: 34, 64
+  orig: 34, 65
+  offset: 0, 1
+  index: -1
+wuqi
+  rotate: true
+  xy: 167, 163
+  size: 197, 164
+  orig: 197, 168
+  offset: 0, 0
+  index: -1
+xianlian
+  rotate: false
+  xy: 431, 72
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: true
+  xy: 282, 3
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+yooushou
+  rotate: false
+  xy: 508, 4
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: false
+  xy: 226, 45
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 412, 248
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 500, 257
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 529, 104
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+youxiaotui2
+  rotate: true
+  xy: 421, 175
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 333, 166
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 335, 6
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+zuoshoiubi
+  rotate: false
+  xy: 2, 16
+  size: 106, 143
+  orig: 106, 143
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 515, 191
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 226, 2
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1

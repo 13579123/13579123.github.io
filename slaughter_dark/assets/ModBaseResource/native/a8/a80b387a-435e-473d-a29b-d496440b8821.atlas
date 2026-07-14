@@ -1,0 +1,90 @@
+
+hero000140.png
+size: 1521,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb2
+  rotate: true
+  xy: 1053, 68
+  size: 224, 269
+  orig: 224, 269
+  offset: 0, 0
+  index: -1
+cb2-2
+  rotate: true
+  xy: 760, 17
+  size: 159, 236
+  orig: 159, 236
+  offset: 0, 0
+  index: -1
+cb3
+  rotate: false
+  xy: 467, 179
+  size: 397, 286
+  orig: 397, 286
+  offset: 0, 0
+  index: -1
+cb3-3
+  rotate: false
+  xy: 395, 3
+  size: 363, 174
+  orig: 363, 174
+  offset: 0, 0
+  index: -1
+cb4
+  rotate: false
+  xy: 866, 178
+  size: 185, 287
+  orig: 185, 300
+  offset: 0, 13
+  index: -1
+chibang1
+  rotate: false
+  xy: 1324, 72
+  size: 157, 242
+  orig: 157, 242
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 1053, 294
+  size: 244, 311
+  orig: 244, 313
+  offset: 0, 2
+  index: -1
+jiao2
+  rotate: false
+  xy: 1299, 316
+  size: 220, 289
+  orig: 220, 289
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 179
+  size: 463, 426
+  orig: 463, 430
+  offset: 0, 4
+  index: -1
+tou
+  rotate: true
+  xy: 2, 14
+  size: 163, 391
+  orig: 163, 391
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 467, 467
+  size: 570, 138
+  orig: 570, 138
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 1324, 2
+  size: 68, 65
+  orig: 68, 66
+  offset: 0, 1
+  index: -1

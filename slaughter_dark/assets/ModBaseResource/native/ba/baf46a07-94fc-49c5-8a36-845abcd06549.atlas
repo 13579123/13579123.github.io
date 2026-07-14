@@ -1,0 +1,90 @@
+
+hero00019.png
+size: 487,230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 2, 7
+  size: 221, 259
+  orig: 221, 259
+  offset: 0, 0
+  index: -1
+er
+  rotate: false
+  xy: 427, 6
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+houchibang
+  rotate: false
+  xy: 263, 65
+  size: 106, 163
+  orig: 106, 163
+  offset: 0, 0
+  index: -1
+houer
+  rotate: false
+  xy: 459, 181
+  size: 23, 47
+  orig: 24, 47
+  offset: 1, 0
+  index: -1
+houjiao
+  rotate: false
+  xy: 428, 101
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 371, 137
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 371, 84
+  size: 55, 51
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: false
+  xy: 263, 3
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 347, 12
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+ya
+  rotate: false
+  xy: 459, 158
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+ya2
+  rotate: true
+  xy: 347, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+ya3
+  rotate: true
+  xy: 359, 4
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
